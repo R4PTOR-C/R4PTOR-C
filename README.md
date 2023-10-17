@@ -37,7 +37,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R4PTOR-C&theme=transparent&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4PTOR-C&theme=transparent&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4PTOR-C&show_icons=true&theme=transparent)
 
 ## Contact 
 <div> 
