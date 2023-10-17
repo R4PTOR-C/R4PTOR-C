@@ -46,6 +46,6 @@
  </br>
 </br>
  
-![Snake animation](https://github.com/R4PTOR-C/R4PTOR-C/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/R4PTOR-C/R4PTOR-C/blob/output/github-contribution-grid-snake-dark.svg) 
 </div>
 
